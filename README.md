@@ -1,2 +1,3 @@
 # PI_calculation
-a calculater for the first 999 number fo Pi.
+A calculater for the first 999 numbers of Pi.
+And an calculator for a defined digit of Pi.
